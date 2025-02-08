@@ -6,6 +6,7 @@ This agent is set up to use [Deepgram](www.deepgram.com) for the audio service a
 This agent utilizes streaming for sst and tts to speed things up.
 
 Make sure to install "ffplay" before using this agent as it is required for playing the audio.
+To install ffplay (a part of FFmpeg) for Windows, follow  the link : https://ffmpeg.org/download.html
 
 The files in `building_blocks` are the isolated components if you'd like to inspect them
 
